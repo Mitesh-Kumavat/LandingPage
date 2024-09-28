@@ -2,7 +2,7 @@ import React from 'react';
 import { FaPhoneAlt } from 'react-icons/fa';
 
 const CallButton = () => {
-    const phoneNumber = "tel:+919909182854"; // Replace with your phone number
+    const phoneNumber = String(import.meta.env.VITE_TEL); // Replace with your phone number
 
     return (
         <a
