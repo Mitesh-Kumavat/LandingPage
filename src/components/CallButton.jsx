@@ -10,7 +10,7 @@ const CallButton = () => {
             className="fixed bottom-4 right-4 z-50 bg-blue-500 p-3 rounded-full text-white shadow-lg mb-16  hover:bg-blue-600 transition animate-pop"
             aria-label="Call us"
         >
-            <FaPhoneAlt size={30} />
+            <FaPhoneAlt size={23} />
         </a>
     );
 };

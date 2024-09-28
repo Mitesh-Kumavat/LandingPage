@@ -6,7 +6,7 @@ export const theme = {
     keyframes: {
       pop: {
         '0%, 100%': { transform: 'scale(1)' },
-        '50%': { transform: 'scale(1.2)' },
+        '50%': { transform: 'scale(1.1)' },
       },
     },
     animation: {
